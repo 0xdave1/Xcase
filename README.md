@@ -1,5 +1,22 @@
 # Xcase — WhatsApp-First Cross-Border FX MVP (XOF ⇄ NGN)
 
+## Implementation status
+
+This repository now includes a runnable MVP web implementation in:
+
+- `/home/runner/work/Xcase/Xcase/web`
+
+Quick start:
+
+```bash
+cd /home/runner/work/Xcase/Xcase/web
+cp .env.example .env.local
+npm install
+npm run dev
+```
+
+See `/home/runner/work/Xcase/Xcase/web/README.md` for environment variables, flows, and validation commands.
+
 ## 1) Product Requirements Document (PRD)
 
 ### 1.1 Problem
